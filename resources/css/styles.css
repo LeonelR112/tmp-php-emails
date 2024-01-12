@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(207, 241, 197);
+}
+
+.input-field input[type=text]:focus {
+    border-bottom: 1px solid #2979ff;
+    box-shadow: 0 1px 0 0 #2979ff;
+}
+
+.input-field input[type=text]:focus + label {
+    color: #2979ff;
+}

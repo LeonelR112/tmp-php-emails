@@ -1,0 +1,3 @@
+La app es para testear y simular unas funciones de tracking en mensajes enviados a emails (inspirado en el sistema emblue, una web de campañas de marketing). 
+El cual es ver si se puede obtener una notificación de que un mensaje fue abierto o no y si se agrega un botón y se hace click se notifica que el usuario está
+interesado en el mensaje. Hasta ahora está incompleto, solo funciona el envío y el pixeltracking.
